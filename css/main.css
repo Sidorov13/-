@@ -20,7 +20,12 @@ h1, h2, h3, p{margin: 0;}
 
  }
 
-h1, h2,h3{
+.s2 h2 {
+  text-align: center;
+  margin-bottom: 10px;
+}
+
+h1, h2{
 
  color: #747AB1;
  font-size: 35px;
