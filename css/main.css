@@ -223,7 +223,8 @@ img{
 
 #menu{
   width:100%;
-  background: linear-gradient(#FFFCBB,#FFDFDC);
+  
+  background: linear-gradient(#FFF,#747AB1);
   padding:5px 0 15px;
 }
 #menu.default{
@@ -906,4 +907,6 @@ width: 7%;
  #divs55 p {
   font-size: 1.100em;
  }
+
+
 
