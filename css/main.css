@@ -26,7 +26,12 @@ h1, h2, h3, p{margin: 0;}
 }
 .s2 h3 {
   color: #747AB1;
+  text-align: center;
 }
+#divflex {
+  display: flex;
+}
+
 
 h1, h2{
 
@@ -251,7 +256,7 @@ img{
 border-radius: 30px;
   background: #FAFAFA;
   color: black;
-  font-size: 18px;
+ 
 }
 .items{
   display: flex;
