@@ -24,6 +24,10 @@ position: absolute;
  width :371px;
  height: 300px;
 }
+#divflex {
+	display: block;
+}
+
 }
 @media screen and (min-width: 810px) and (max-width: 1080px) {
   /* ваш стиль CSS здесь */
@@ -44,7 +48,9 @@ position: absolute;
  width :371px;
  height: 300px;
 }
-
+#divflex {
+	display: block;
+}
 }
 
 
@@ -212,6 +218,10 @@ text-align: center;
 #iframe{
  width :371px;
  height: 300px;
+
+}
+#divflex {
+	display: block;
 }
 }
 
@@ -290,7 +300,9 @@ width: 100%;
 	width: 100%;
 }
 
-
+#divflex {
+	display: block;
+}
 
 }
 
