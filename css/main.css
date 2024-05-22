@@ -593,8 +593,23 @@ position: absolute;
   font-size: 16px;
 }
 
+.s88 .items div{
+  width: 30%;
+}
 
-.s8 h2{
+.s88 .items{
+  margin: 0 auto;
+  
+  border-radius: 20px;
+  background: #F9F9F9;
+  margin-bottom: 8px;
+  padding: 30px;
+  text-align: center;
+  font-size: 20px;
+}
+
+
+.s88 h2{
   text-align: center;
   margin-bottom: 15px;
 }
@@ -606,12 +621,23 @@ position: absolute;
   margin-bottom: 8px;
   padding: 30px;
   text-align: center;
-  font-size: 20px;
+  width: 50%;
+
+}
+.s8 h3 {
+ color: #747AB1;
+ font-size: 30px;
+ padding-top: 20px;
+}
+.s8 h2{
+  text-align: center;
+  margin-bottom: 15px;
 }
 
-.s8 .items div{
+/*.s8 .items div{
   width: 30%;
 }
+*/
 .s8 .items ul{
   width: 65%;
   list-style: disc;
