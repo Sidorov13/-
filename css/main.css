@@ -339,8 +339,8 @@ background-color: red;
 }
 
 .s1 .price span{
-  color: #747AB1 ;
   background-clip: text;
+  color: #747AB1 ;
   /*-webkit-background-clip: text;
   -webkit-text-fill-color: transparent;*/
   font-size: 30px;
@@ -715,10 +715,12 @@ position: absolute;
   text-transform: uppercase;
 }
 .s10 .price span, .box-modal .price span{
-background: #747AB1;
+
   background-clip: text;
-  -webkit-background-clip: text;
-  -webkit-text-fill-color: transparent;
+  color: #747AB1 ;
+  /*-webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;*/
+
   font-size: 30px;
 }
 .s10 .bonus{
