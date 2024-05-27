@@ -23,6 +23,7 @@ position: absolute;
 #iframe{
  width :371px;
  height: 300px;
+margin-top: 20px;
 }
 
 
@@ -45,6 +46,7 @@ position: absolute;
 #iframe{
  width :371px;
  height: 300px;
+ margin-top: 20px;
 }
 #divflex {
 	display: block;
